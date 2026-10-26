@@ -114,8 +114,8 @@ ft/
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/username/sistem-inventori-ft.git
-   cd sistem-inventori-ft
+   git clone https://github.com/RakaMaulanaBintang/sistem-inventory.git
+   cd sistem-inventori
    ```
 
 2. **Buat Database**
